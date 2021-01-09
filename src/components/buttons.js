@@ -1,4 +1,4 @@
-import { Link } from "gatsby"
+
 import React, { useState, useEffect } from 'react';
 import { useStaticQuery, graphql } from "gatsby"
 import PropTypes from "prop-types"
