@@ -6,7 +6,7 @@ import './header.css'
 const Header = ({ siteTitle }) => (
   <header className="header">
 
-    {siteTitle} <img className="header--img" src={withPrefix("../images/beach_icon.png")} alt="icono playa"/>
+    {siteTitle} <img className="header--img" src={Playa} alt="icono playa"/>
 
   </header>
 )

@@ -25,7 +25,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   
-  pathPrefix: "/playita-juego",
+  pathPrefix: `/playita-juego`,
   
   siteMetadata: {
     title: 'Gatsby Contentful starter',
